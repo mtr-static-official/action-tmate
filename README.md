@@ -14,7 +14,6 @@ This GitHub Action offers you a direct way to interact with the host system on w
 
 - Linux
 - macOS
-- Windows
 
 ## Getting Started
 
